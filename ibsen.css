@@ -1,0 +1,38 @@
+.direction {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    background-color: azure;
+}
+.direction:hover {
+    background-color: lightsalmon;
+    color: lightgreen;
+}
+.speech {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+}
+.regina {
+    color: pink;
+}
+.engstrand {
+    color: violet;
+}
+.Table {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 1px;
+}
+.Table th{
+    text-align: center;
+    padding: 10px;
+}
+.Table td {
+    text-align: center;
+    padding: 10px;
+}
+.Table tr:nth-child(even) {
+    background-color: #808000;
+}
+.Table tr:hover {
+    background-color: #FFFF00;
+}
