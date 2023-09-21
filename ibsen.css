@@ -46,15 +46,3 @@
 tr:nth-child(even){
     background-color: #808000;
 }
-ul.navbar-horizontal 5{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-ul.navbar-horizontal li {
-    color:#000;
-    background-color:aqua
-}
-ul.navbat-horizontal a {
-    display:block;
-}
