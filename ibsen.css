@@ -20,31 +20,30 @@
     color:blueviolet;
     text-shadow: 2px 3px 4px red;
 }
-
 .direction:hover{
     background-color: lightsalmon;
     color: lightgreen;
 }
 .regina{
-    color: chartreuse;
+    color: blueviolet;
 }
 .engstrand{
-    color: aliceblue;
+    color: blueviolet;
 }
 
-.Table{
+Table{
     border:10px solid green;
     color: red;
     text-align :center;
     padding:5px;
     margin: 3px;
 }
-.Table tr:hover{
+Table tr:hover{
     background-color: #808000;
 }
 
 tr:nth-child(even){
-    background-color: #808000;
+    background-color: #FFFF00;
 }
 
 
